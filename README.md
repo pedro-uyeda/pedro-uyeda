@@ -1,7 +1,7 @@
 ### Hello there, I'm Pedro Uyeda.
 
 ## I'm a Mechanical Engineer interested in Data Science and UX/UI!
-## I've been working in several projects as a mechanical designer and I want to explore more ways to build things that people can interact with.
+## I've been working as a mechanical designer and I want to explore more ways to build things that people can interact with.
 
 
 ### Connect with me:
